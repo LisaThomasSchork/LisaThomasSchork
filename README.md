@@ -6,8 +6,11 @@
 - <strong>Front-End:</strong> <a href="https://github.com/LisaThomasSchork/Schork-Custom-Construction.git"</a>
 - <strong>Back-End C#:</strong><a href="https://github.com/LisaThomasSchork/BattleshipInfo.git"</a>
 
-- 👯 I’m looking to collaborate with New and Exciting Individuals 
+- 👯 I’m looking to collaborate with New and Exciting Individuals. Here is a project I started on and would like to add to this like the Front-End.  I'm not sure on how to acheve this <a href="https://github.com/LisaThomasSchork/TreehouseDefense.git"</a>
 
-- 📫 Reach me at lisathomasschork@gmail.com
+- <strong>Reach Me:</strong> 
+- E-mail:   lisathomasschork@gmail.com
+- Discord:  Lisa Thomas Schork#9482
+- Slack:    Lisa Thomas Schork
 
 
