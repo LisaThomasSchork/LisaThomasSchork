@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there I'm Lisa 👋
 
-<!--
-**LisaThomasSchork/LisaThomasSchork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning C# with CodeLouisville after completing the Front-End program.  Before that I completed MTA: HTML5 App Development Fundamentals certification in 2019. Where I got the chance with Amazon's Career Choice Program.
 
-Here are some ideas to get you started:
+- 🔭 My Projects to complete the Programs:
+- <strong>Front-End:</strong> <a href="https://github.com/LisaThomasSchork/Schork-Custom-Construction.git"</a>
+- <strong>Back-End C#:</strong><a href="https://github.com/LisaThomasSchork/BattleshipInfo.git"</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate with New and Exciting Individuals 
+
+- 📫 Reach me at lisathomasschork@gmail.com
+
+
