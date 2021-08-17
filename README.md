@@ -9,5 +9,5 @@
 - 👯 I’m looking to collaborate with New and Exciting Individuals.
 
 - <strong>Reach Me:</strong> 
-- E-mail:   lisathomasschork@gmail.com
+- E-mail:   lisaschork23@gmail.com
 - LinkedIn: <a href ="https://www.linkedin.com/in/lisa-thomas-schork"<a>
